@@ -74,11 +74,4 @@ Some of the charts created in this project:
 #DataWithJonah #Python #DataAnalytics #Netflix
 
 ---
-"""
 
-# Save README to file
-path_readme = "/mnt/data/README.md"
-with open(path_readme, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-path_readme
