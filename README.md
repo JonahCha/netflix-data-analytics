@@ -1,7 +1,3 @@
-# Let's create a README.md file for the Netflix Data Analytics Project
-# This will be GitHub-ready, summarizing the project, dataset, tools, steps, and insights.
-
-readme_content = """
 # 📊 Netflix Data Analytics Project
 
 This is my **first data analytics project**, where I analyzed the **Netflix Movies & TV Shows** dataset using Python.
